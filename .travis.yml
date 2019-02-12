@@ -13,8 +13,8 @@ install:
   - bundle install
   - gem install jekyll html-proofer
   - gem install awesome_bot
-  
+
 script:
+  - awesome_bot --allow-redirect README.md
   - bundle exec jekyll build --incremental
   - bundle exec rake test
-  - awesome_bot README.md
