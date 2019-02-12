@@ -4,8 +4,8 @@ permalink: /
 layout: default
 ---
 
-[![Build Status](https://travis-ci.org/ayr-ton/awesome-geek-podcasts.svg?branch=master)](https://travis-ci.org/ayr-ton/awesome-geek-podcasts)
 # Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://travis-ci.org/ayr-ton/awesome-geek-podcasts.svg?branch=master)](https://travis-ci.org/ayr-ton/awesome-geek-podcasts)
 
 A curated list of podcasts we like to listen to.
 
