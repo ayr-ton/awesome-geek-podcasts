@@ -7,7 +7,7 @@ permalink: /
 
 A curated list of podcasts we like to listen to.
 
-# Table of Contents
+# Contents
 
 ## Podcasts by language
 
