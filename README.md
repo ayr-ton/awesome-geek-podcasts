@@ -214,6 +214,7 @@ A curated list of podcasts we like to listen to.
 * [CapyCast](https://soundcloud.com/rdshipit/) - Podcast com o Time de Produto da Resultados Digitais sobre os seus aprendizados em Desenvolvimento e Design.
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.
 * [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
+* [DataHackers](https://datahackers.com.br/podcast) - Podcast mensal que traz profissionais da ciência de dados para falar do mercado de trabalho, carreira e novidades.
 * [DevNaEstrada](https://devnaestrada.com.br/) - Podcast semanal sobre desenvolvimento web com uma pitada de humor.
 * [DioCast](https://www.diolinux.com.br/search/label/DioCast) - Podcast sobre Linux e Software Livre.
 * [Elemencast](https://elemencast.github.io) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
