@@ -15,6 +15,6 @@ install:
   - gem install awesome_bot
 
 script:
-  - awesome_bot --allow-redirect README.md
+  #- awesome_bot --allow-redirect README.md
   - bundle exec jekyll build --incremental
   - bundle exec rake test
