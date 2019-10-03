@@ -116,6 +116,7 @@ A curated list of podcasts we like to listen to.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
 * [Javascript to Elm](https://jstoelm.com/) - A podcast about using Elm coming from Javascript and other languages.
 * [JS Party](https://changelog.com/jsparty) – A community celebration of JavaScript and the web
+* [Ladybug Podcast](https://ladybug.dev/) – An all lady-hosted tech podcast for all developers with great discussions around how to start coding, the hot technologies right now, how to get your first developer job, imposter syndrome, how to write CSS and more.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
 * [Linear Digressions](http://lineardigressions.com/) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
