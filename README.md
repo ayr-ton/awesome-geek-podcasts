@@ -213,6 +213,9 @@ A curated list of podcasts we like to listen to.
 * [Why Are Computers](https://whyarecomputers.com/) - A podcast about computers and computer programs and why.
 * [WIRED's Webmonkey Podcast](https://www.wired.com/series/webmonkey/) - Glance behind the scenes of WIRED.com with the tech team.
 * [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
+* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebbok. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
+* [a16z Podcast](https://a16z.com/podcasts/) - A podcast discusses tech and culture trends, news, and the future
+
 
 ## In Portuguese
 
