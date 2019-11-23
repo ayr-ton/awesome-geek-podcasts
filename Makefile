@@ -5,6 +5,7 @@
 	LANGUAGE=en_US.UTF-8
 
 install:
+	gem install bundle
 	bundle install
 	gem install jekyll html-proofer
 	gem install awesome_bot
