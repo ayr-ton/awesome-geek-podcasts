@@ -277,6 +277,7 @@ A curated list of podcasts we like to listen to.
 * [GoLang Show](https://golangshow.com/) - Podcast about Go language.
 * [DevOps Deflope](https://devopsdeflope.ru/) - Podcast about DevOps.
 * [HangOps.Ru](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA/feed) - Podcast + Live talk on YouTube about DevOps.
+* [Podlodka](http://podlodka.io) - Weekly audio show on software development. Interviews with professionals in software development industry and other related fields.
 
 ## In Persian
 
