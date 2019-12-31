@@ -254,6 +254,7 @@ A curated list of podcasts we like to listen to.
 * [1984](https://podcast.jcea.es/podcast1984/) - Hacking, hacktivismo y seguridad
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
+* [Atareao Podcast](https://www.atareao.es/podcasts/) - Podcast sobre Linux, Ubuntu, Android y Open Source.
 * [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador.
 * [CAChemE](https://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
 * [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
