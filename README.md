@@ -14,6 +14,7 @@ A curated list of podcasts we like to listen to.
 - [English](#in-english)
 - [Portuguese](#in-portuguese)
 - [Spanish](#in-spanish)
+  - [Cultura libre](#floss-y-cultura-libre)
 - [Russian](#in-russian)
 - [Persian](#in-persian)
 - [Swedish](#in-swedish)
@@ -255,7 +256,6 @@ A curated list of podcasts we like to listen to.
 * [1984](https://podcast.jcea.es/podcast1984/) - Hacking, hacktivismo y seguridad
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
-* [Atareao Podcast](https://www.atareao.es/podcasts/) - Podcast sobre Linux, Ubuntu, Android y Open Source.
 * [Basta ya de picar](http://www.bastayadepicar.com/) - Podcasts donde se discuten diversos temas de programación y de la vida del programador.
 * [CAChemE](https://cacheme.org/podcast/) - Aplicaciones para ciencia e ingeniería (principalmente Python).
 * [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
@@ -264,8 +264,31 @@ A curated list of podcasts we like to listen to.
 * [Nación Lumpen](https://www.nacionlumpen.com/) - similar a "Basta ya de picar".
 * [Programar es una mierda](https://www.programaresunamierda.com/) - Podcast sobre desarrollo de software.
 * [Python en español](https://podcast.jcea.es/python/) - Python en tu idioma
-* [Ubuntu y otras hierbas](https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true) - Podcast en español sobre Ubuntu y software libre en general.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
+
+### FLOSS y Cultura libre
+Podcast sobre cultura libre - Free/Libre and Open-Source Software
+* [Atareao Podcast](https://www.atareao.es/podcasts) - Podcast sobre Linux, Ubuntu, Android y Open Source.
+* [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - Mundo maker, software y hardware libre, proyectos, actividades y eventos organizados por la asociación Bricolabs.
+* [Compilando Podcast](https://compilando.audio) - Entrevistas y noticias sobre GNU/Linux y software libre.
+* [Davidochobits podcast](https://www.ochobitshacenunbyte.com/category/miscelaneos/) - Free Software, GNU y Linux.
+* [deployando.me](https://deployando.me/) - Podcast de tecnologia para sysadmins y devops.
+* [Eduardo Collado](https://www.eduardocollado.com/) - Administración de redes. No sólo de hosting y redes vive el hombre.
+* [GNU/Linux Valencia](https://gnulinuxvalencia.org/category/podcasts) - Una aproximación al mundo GNU/Linux desde la capital del Turia.
+* [Home Studio Libre: el Podcast](https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html) - Aquí encontraras informacion en español sobre producción y postproducción de audio y vídeo con herramientas libres.
+* [La Pingüina Increíblemente Curiosa](https://podcast.voidnull.es/) - Un podcast sobre LPIC, contenido de la certificación y explicaciones de los capitulos que hay que estudiar.
+* [Maratón Linuxero](https://maratonlinuxero.org) - proyecto creado por podcasters y oyentes de GNU/Linux que quieren realizar un evento en directo a través de aplicaciones y servicios de software libre.
+* [Más Allá de la Innovación](https://masalladelainnovacion.com) - Entrevistas tech de OpenExpo.
+* [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) - Reflexiones sobre tecnología, ordenadores, chromebooks, smartphones, tablets, software, sistemas operativos:Linux, Windows y otros y apps.
+* [NeoSiteLinux Podcast](https://www.neositelinux.com/tags/#podcasts) - Donde lo principal es el Software Libre, GNU/Linux y la Tecnologia.
+* [NOlegaltech Radio](https://www.ivoox.com/podcast-nolegaltech-radio_sq_f1446265_1.html) - El mundo legal no mola nada... Píldoras de tecnología y derecho en 10 minutos.
+* [Podcast Linux](https://avpodcast.net/podcastlinux) - Un podcast del mundo GNU/Linux para usuarios dómesticos de escritorio.
+  * [Linux Express, de Podcast Linux](https://podcastlinux.gitlab.io) - Resumen más personal de Podcast Linux.
+* [Podcast oficial KDE España](https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html) - Podcast de la Asociación Cultural KDE España.
+* [Salmorejo Geek](https://www.ivoox.com/podcast-salmorejo-geek_sq_f1206500_1.html) - Batiburrillo Digital. Sobre todo Linux.
+* [Tomando Un Café](https://rooteando.com/tag/podcast) - Aplicaciones de Linux, programación y formación, aunque cualquier tema relacionado con la tecnología puede tener cabida.
+* [Ubuntu y otras hierbas](https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true) - Podcast en español sobre Ubuntu y software libre en general.
+* [uGeek](https://ugeek.github.io/) - Tecnología, Android, Linux, Servidores y mucho más...
 
 ## In Russian
 
