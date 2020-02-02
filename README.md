@@ -61,7 +61,6 @@ A curated list of podcasts we like to listen to.
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.
 * [CoRecursive Interviews](https://corecursive.com/) - In-Depth interviews with software development experts.  Focusing on functional programming and languages like scala / haskell / F# / erlang / idris / kotlin.
 * [CodePen Radio](https://blog.codepen.io/radio/) - Co-founders of CodePen talk about the ins and outs of running a web software business.
-* [Coding Blocks](https://www.codingblocks.net/) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - A new podcast about the people who transform technology from the command line up.
 * [Complete Developer Podcast](https://completedeveloperpodcast.com/) - There are plenty of podcasts out there about languages and coding. What we are doing with the Complete Developer Podcast is to cover the other areas of life. For example, our first episode is about talking with customers, bosses, and others that developers interact with who are not fellow developers.
 * [Cortex](https://www.relay.fm/cortex) - Content creators CGP Grey and Myke Hurley discuss their processes, productivity hacks, workflows, and general working lives.
@@ -257,7 +256,6 @@ A curated list of podcasts we like to listen to.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](https://dosideas.com/podcast/ideasagiles/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
 * [Nación Lumpen](https://www.nacionlumpen.com/) - similar a "Basta ya de picar".
-* [Programar es una mierda](https://www.programaresunamierda.com/) - Podcast sobre desarrollo de software.
 * [Python en español](https://podcast.jcea.es/python/) - Python en tu idioma
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
