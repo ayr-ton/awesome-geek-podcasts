@@ -39,7 +39,6 @@ A curated list of podcasts we like to listen to.
 * [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
 * [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
-* [Almost Better Than Silence](https://almostbetterthansilence.com/) - A comedy podcast about video games that features technology news, guest interviews, and conversation games!
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 * [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) - Noah answers questions about technology, business, community and Linux
 * [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) - Away From The Keyboard is where technologists tell their stories of how they started, how they grew, how they learned, and how they unwind.
@@ -190,7 +189,6 @@ A curated list of podcasts we like to listen to.
 * [The Linux Action Show](https://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
 * [The Manifest](https://manifest.fm) - A podcast all about package management.
-* [The Path to Performance](https://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
 * [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
 * [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) - A weekly podcast about developers and the Stack Overflow community.
 * [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
