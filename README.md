@@ -314,6 +314,8 @@ Podcast sobre cultura libre - Free/Libre and Open-Source Software
 * [La Dev Team](https://www.radiokawa.com/episode/la-dev-team-hs2/) - Monthly podcast hosted by developers and talking about the video game industry.
 * [Le comptoir sécu](https://www.comptoirsecu.fr/) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
 * [Les Cast Codeurs](https://lescastcodeurs.com) — Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
+* [le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
+* [Les Cast Codeurs](https://lescastcodeurs.com) — Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 * [IFTTD – If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
 
