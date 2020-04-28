@@ -317,6 +317,7 @@ Podcast sobre cultura libre - Free/Libre and Open-Source Software
 * [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 * [IFTTD – If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
+* [Electro Monkeys](https://electro-monkeys.fr/) - Weekly french podcast, Electro Monkeys is the most offbeat podcast on the planet on cloud native technologies! Hosted by Stéphane Beuret.
 
 ## In German
 
