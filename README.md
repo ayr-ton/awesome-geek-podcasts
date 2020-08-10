@@ -277,7 +277,6 @@ A curated list of podcasts we like to listen to.
   * [Linux Express, de Podcast Linux](https://podcastlinux.gitlab.io) - Resumen más personal de Podcast Linux.
 * [Podcast oficial KDE España](https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html) - Podcast de la Asociación Cultural KDE España.
 * [Salmorejo Geek](https://www.ivoox.com/podcast-salmorejo-geek_sq_f1206500_1.html) - Batiburrillo Digital. Sobre todo Linux.
-* [Tomando Un Café](https://rooteando.com/tag/podcast) - Aplicaciones de Linux, programación y formación, aunque cualquier tema relacionado con la tecnología puede tener cabida.
 * [Ubuntu y otras hierbas](https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true) - Podcast en español sobre Ubuntu y software libre en general.
 * [uGeek](https://ugeek.github.io/) - Tecnología, Android, Linux, Servidores y mucho más...
 
