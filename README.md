@@ -93,7 +93,6 @@ A curated list of podcasts we like to listen to.
 * [Full Stack Radio](http://www.fullstackradio.com/) - A podcast for developers interested in building great software products.
 * [Functional Geekery](https://www.functionalgeekery.com/) - Functional Geeks, Geeking Functionally.
 * [Future of Coding](https://futureofcoding.org/) - Monthly interviews.
-* [Fw:Thinking](https://www.fwthinking.com/podcasts) - It's about technology. It's about humanity. It's about our future. It's Fw:Thinking.
 * [Get Up and Code](https://simpleprogrammer.com/) - Get Up and Code is a podcast about fitness for programmers and software developers. Every week, John Sonmez, helps you lose weight, refactor your diet and get in shape.
 * [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
@@ -296,7 +295,6 @@ Podcast sobre cultura libre - Free/Libre and Open-Source Software
 * [SDCast](http://sdcast.ksdaemon.ru) — Software development podcast. Interviews with developers, talks about development, open source and related IT topics.
 * [Razbor Poletov](http://razborpoletov.com) - Podcast about world of Java, technologies and software development.
 * [uWebDesign](https://uwebdesign.ru/) - Podcast about web-design, web-development and all IT-related stuff.
-* [Frontflip Podcast](http://frontflip.me/) - Podcast about JavaScript, frontend and related technologies.
 * [GoLang Show](https://golangshow.com/) - Podcast about Go language.
 * [DevOps Deflope](https://devopsdeflope.ru/) - Podcast about DevOps.
 * [HangOps.Ru](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA/feed) - Podcast + Live talk on YouTube about DevOps.
@@ -363,8 +361,6 @@ Podcast sobre cultura libre - Free/Libre and Open-Source Software
 * [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
 ## In Dutch
-* [BNR: Digitaal](https://www.bnr.nl/cookiewall?target=%2Fprogrammas%2Fdigitaal) - Herbert Blankesteijn schakelt tussen internet, computer en telefonie.
-* [BNR: De Technoloog](https://www.bnr.nl/cookiewall?target=%2Fprogrammas%2Fde-technoloog) - Herbert Blankesteijn en Ben van der Burg in gesprek met spraakmakende experts over technologische ontwikkelingen en de impact op onze samenleving.
 * [De Appels en Peren Show](http://appelsenperenshow.nl/) - Een talkshow over en uit de toekomst. Technologie, media, cultuur en alles wat verder de toekomst mogelijk maakt.
 * [Tech45](https://tech45.eu/) - Tech45 is een wekelijkse technologiepodcast. In ongeveer 45 minuten loodst een panel geeks je door het interessantste technieuws van de voorbije week.
 * [TechSnacks](https://techsnacks.nl/) - De enige techpodcast op snackformaat!
