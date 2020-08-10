@@ -14,7 +14,6 @@ A curated list of podcasts we like to listen to.
 - [English](#in-english)
 - [Portuguese](#in-portuguese)
 - [Spanish](#in-spanish)
-  - [Cultura libre](#floss-y-cultura-libre)
 - [Russian](#in-russian)
 - [Persian](#in-persian)
 - [Swedish](#in-swedish)
@@ -261,9 +260,6 @@ A curated list of podcasts we like to listen to.
 * [Nación Lumpen](https://www.nacionlumpen.com/) - similar a "Basta ya de picar".
 * [Python en español](https://podcast.jcea.es/python/) - Python en tu idioma
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
-
-### FLOSS y Cultura libre
-Podcast sobre cultura libre - Free/Libre and Open-Source Software
 * [Atareao Podcast](https://www.atareao.es/podcasts) - Podcast sobre Linux, Ubuntu, Android y Open Source.
 * [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - Mundo maker, software y hardware libre, proyectos, actividades y eventos organizados por la asociación Bricolabs.
 * [Compilando Podcast](https://compilando.audio) - Entrevistas y noticias sobre GNU/Linux y software libre.
