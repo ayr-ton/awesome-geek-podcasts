@@ -39,6 +39,7 @@ A curated list of podcasts we like to listen to.
 * [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
+* [Around IT In 256 Seconds](https://256.nurkiewicz.com/) - Podcast for developers, testers, SREs… and their managers. I explain complex and convoluted technologies in a clear way, avoiding buzzwords and hype. Never longer than 4 minutes and 16 seconds.
 * [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) - Noah answers questions about technology, business, community and Linux
 * [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) - Away From The Keyboard is where technologists tell their stories of how they started, how they grew, how they learned, and how they unwind.
 * [Away from Keyboard](https://changelog.com/afk) – Exploring the human side of creative work.
