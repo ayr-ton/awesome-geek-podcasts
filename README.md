@@ -159,6 +159,7 @@ A curated list of podcasts we like to listen to.
 * [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
 * [Sound Of Symfony](https://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [StarTalk Radio](https://www.startalkradio.net/?sfid=22493&post_types=show) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
+* [Surveillance Report](https://techlore.tech) - A weekly security and privacy news roundup to keep you up-to-speed on important updated in our digital world. Uploaded every weekend!
 * [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt.
 * [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes) - Adam Savage sits down with creators, thought-leaders, and celebrity fans to discuss the moments, people, and milestones that have changed the genre universe forever; a nostalgic celebration of all things science fiction.
 * [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
@@ -180,6 +181,7 @@ A curated list of podcasts we like to listen to.
 * [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
 * [The Changelog](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of software development.
 * [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
+* [The CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) - The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also included interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world.
 * [The Distributed Data Show](https://academy.datastax.com/distributed-data-show) - Weekly source for the latest news and technical expertise to help building large-scale distributed systems. Brought by the DataStax Technical Evangelist team, go in-depth with DataStax engineers and special guests from the broader data community. New episodes each Tuesday.
 * [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 * [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
