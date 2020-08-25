@@ -98,6 +98,7 @@ A curated list of podcasts we like to listen to.
 * [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
 * [Go Time](https://changelog.com/gotime) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
+* [Hackable?](https://hackablepodcast.com) - In a world where we obsess over staying connected, how can we be sure we're not leaving ourselves vulnerable. The host **Geoff Siskind** does a live demonstration of some awesome hacking techniques in each episode.
 * [Hackaday Podcast](https://hackaday.com/category/podcasts/) - Hackaday's podcast, talking about the best articles published and hackaday contests.
 * [HardcoreHistory](https://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
@@ -159,7 +160,7 @@ A curated list of podcasts we like to listen to.
 * [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
 * [Sound Of Symfony](https://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [StarTalk Radio](https://www.startalkradio.net/?sfid=22493&post_types=show) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
-* [Surveillance Report](https://techlore.tech) - A weekly security and privacy news roundup to keep you up-to-speed on important updated in our digital world. Uploaded every weekend!
+* [Surveillance Report](https://techlore.tech) - A weekly security and privacy news roundup to keep you up-to-speed on important updated in our digital world. Uploaded every weekend!.
 * [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt.
 * [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes) - Adam Savage sits down with creators, thought-leaders, and celebrity fans to discuss the moments, people, and milestones that have changed the genre universe forever; a nostalgic celebration of all things science fiction.
 * [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
