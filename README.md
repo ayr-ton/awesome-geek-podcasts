@@ -364,8 +364,6 @@ A curated list of podcasts we like to listen to.
 * [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
 ## In Dutch
-* [BNR: Digitaal](https://www.bnr.nl/cookiewall?target=%2Fprogrammas%2Fdigitaal) - Herbert Blankesteijn schakelt tussen internet, computer en telefonie.
-* [BNR: De Technoloog](https://www.bnr.nl/cookiewall?target=%2Fprogrammas%2Fde-technoloog) - Herbert Blankesteijn en Ben van der Burg in gesprek met spraakmakende experts over technologische ontwikkelingen en de impact op onze samenleving.
 * [De Appels en Peren Show](http://appelsenperenshow.nl/) - Een talkshow over en uit de toekomst. Technologie, media, cultuur en alles wat verder de toekomst mogelijk maakt.
 * [Tech45](https://tech45.eu/) - Tech45 is een wekelijkse technologiepodcast. In ongeveer 45 minuten loodst een panel geeks je door het interessantste technieuws van de voorbije week.
 * [TechSnacks](https://techsnacks.nl/) - De enige techpodcast op snackformaat!
