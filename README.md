@@ -71,6 +71,7 @@ A curated list of podcasts we like to listen to.
 * [Curious Minds](https://www.cmpod.net/) - Curious Minds is a podcast about Science, Technology, and History. Each episode brings interesting stories from a wide range of subjects: from Physics and Astronomy to Medicine, Art and Science Fiction.
 * [Darknet Diaries](https://darknetdiaries.com) - Stories from hackers or those who have been attacked. How they got in and what happened.
 * [Data Stories](http://datastori.es/) - Enrico Bertini and Moritz Stefaner discuss the latest developments in data analytics, visualization and related topics.
+* [Defensive Security Podcast](https://defensivesecurity.org/category/podcast/) - Defensive Security is a Cyber Security Podcast covering breaches and strategies for defense.
 * [Design vs Dev](https://agileleague.com/) - A podcast about web development from the different perspectives of designers and developers.
 * [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 * [Developer On Fire](https://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
