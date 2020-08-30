@@ -347,7 +347,7 @@ A curated list of podcasts we like to listen to.
 
 ## In Turkish
 
-* [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology,programming languages,conferences,Linux,Unix,iOS,MacOS,Python,Ruby,Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
+* [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology, programming languages, conferences, Linux, Unix, iOS, MacOS, Python, Ruby, Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
 
 ## In Finnish
 
@@ -365,6 +365,7 @@ A curated list of podcasts we like to listen to.
 * [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
 ## In Dutch
+
 * [De Appels en Peren Show](http://appelsenperenshow.nl/) - Een talkshow over en uit de toekomst. Technologie, media, cultuur en alles wat verder de toekomst mogelijk maakt.
 * [Tech45](https://tech45.eu/) - Tech45 is een wekelijkse technologiepodcast. In ongeveer 45 minuten loodst een panel geeks je door het interessantste technieuws van de voorbije week.
 * [TechSnacks](https://techsnacks.nl/) - De enige techpodcast op snackformaat!
