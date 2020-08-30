@@ -43,14 +43,14 @@ A curated list of podcasts we like to listen to.
 * [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) - Noah answers questions about technology, business, community and Linux
 * [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) - Away From The Keyboard is where technologists tell their stories of how they started, how they grew, how they learned, and how they unwind.
 * [Away from Keyboard](https://changelog.com/afk) – Exploring the human side of creative work.
-* [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short managable chunks.
+* [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short manageable chunks.
 * [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 * [Beats, Rye & Types](http://beatsryetypes.com/) - Two old friends, discuss their three main obsessions: music, food, and programming.
 * [Between Screens](https://soundcloud.com/between-screens) - Expect to find content about the following topics: Ruby, Rails, Sinatra, Sass, Javascript, Design Patterns, Jekyll, Client-Side Web Apps, Rust, Typography, Git, Responsive Design, Prototyping, Web Design, Type Design and more.
 * [Blockchain Insider](https://bi.11fs.com/) - Weekly podcast specialising in all things blockchain, ledger technology and crypto currencies.
 * [Boagworld Show](https://boagworld.com/show) - Boagworld is a podcast about digital strategy, management and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community.
 * [BookBytes](https://www.orbit.fm/bookbytes/) - A book club podcast for developers.
-* [Bootstrapped](http://bootstrapped.fm/) - Both Ian and Andrey are experience startup founders, both have had major blows and successes in their career. You can learn alot listening to them.
+* [Bootstrapped](http://bootstrapped.fm/) - Both Ian and Andrey are experienced startup founders, both have had major blows and successes in their career. You can learn a lot listening to them.
 * [Bootstrapped Web](http://bootstrappedweb.com/) - Bootstrapped Web is for entrepreneurs bootstrapping their startups, who believe that the best way to get to where we're going is to learn by doing.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
@@ -75,13 +75,13 @@ A curated list of podcasts we like to listen to.
 * [Design vs Dev](https://agileleague.com/) - A podcast about web development from the different perspectives of designers and developers.
 * [DevChat.tv](https://devchat.tv/) - We are programmers. House of Ruby Rogues, Javascript Jabber, IPhreaks, Freelancers' Show, Adventures in Angular and RailsClips.
 * [Developer On Fire](https://developeronfire.com/) - Podcast with inspiring interviews with successful software developers, architects, testers, and other professionals with stories of success, failure, excellence, and inspiration.
-* [DevelopersHangout](http://www.developershangout.io/) - Two Developers talk about challeges, articles, news, books and other podcasts that came across their radar every 2 weeks. Laravel, PHP are two key topics, and other great podcasts like the ones listed above.
+* [DevelopersHangout](http://www.developershangout.io/) - Two Developers talk about challenges, articles, news, books and other podcasts that came across their radar every 2 weeks. Laravel, PHP are two key topics, and other great podcasts like the ones listed above.
 * [Developer Tea](https://spec.fm/podcasts/developer-tea) - Podcast for web and software developers hosted by a developer that you can listen to in less than 10 minutes.
 * [Developing Perspective](	http://developingperspective.com/) - From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
 * [DevOps Cafe](http://devopscafe.org/) - In this interview driven show, John Willis and Damon Edwards take a pragmatic look at the technology, tools, and business developments behind the emerging DevOps movement.
 * [Digital Human](https://www.bbc.co.uk/programmes/b01n7094) - BBC series explores the digital world presented by Aleks Krotoski.
 * [Disruptive](https://soundcloud.com/wyssinstitute/sets/disruptive) - Researchers at the Wyss Institute for Biologically Inspired Engineering use Nature's design principles to develop bioinspired materials and devices that will transform medicine and create a more sustainable world. In this podcast series, Terrence McNally speaks directly with Institute researchers, exploring their motivations and how they envision our future as it might be impacted by their disruptive technologies.
-* [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - On the show we’ll be talking to passionate people about a wide range of developer related topics.
+* [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - On the show we’ll be talking to passionate people about a wide range of developer-related topics.
 * [Elixir Foundation](http://feeds.soundcloud.com/users/soundcloud:users:24638646/sounds.rss) - Your weekly podcast for news & interviews from around the Elixirlang Community.
 * [Elixir Outlaws](https://elixiroutlaws.com) - Panel discussions of topics in and around Elixir development.
 * [Embedded.fm](https://www.embedded.fm/) - Talk about the how, why, and what of engineering, usually devices.
