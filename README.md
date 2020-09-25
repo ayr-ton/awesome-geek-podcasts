@@ -26,6 +26,7 @@ A curated list of podcasts we like to listen to.
 - [Japanese](#in-japanese)
 - [Bahasa Indonesia](#in-bahasa-indonesia)
 - [Dutch](#in-dutch)
+- [Arabic](#in-arabic)
 
 ## Other information
 
@@ -370,6 +371,15 @@ A curated list of podcasts we like to listen to.
 * [TechSnacks](https://techsnacks.nl/) - De enige techpodcast op snackformaat!
 * [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/) - Wekelijkse podcast waarin nerds Spa Rood drinken en praten over tech-onderwerpen. Met regelmatig gastnerds en vaste tafelnerds Daniel Kegel, Floris Diemel, Joost Schellevis, Jurian Ubachs en Randal Peelen.
 * [ZeepCast](https://twitter.com/Zeepcast) - Een podcast over de laatste ontwikkelingen in wetenschap, technologie & popculture. Gehost door Sander Bijleveld & David van Dorsten.
+
+## In Arabic
+* [Ask Developer](http://www.askdeveloper.com/) - An online audio podcast in Egyptian Arabic dialect discusses the technology and software development landscape in Egypt and Middle East.
+* [Null++](https://nullplus.plus) - An Egyptian Arabic podcast Powered By Cairo's Facebook Developers Circle Co-Leads. This podcast aims to provide valuable techie bites for MENA's Software Professionals and help them step up with their careers.
+* [Tech and Coffee](https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo) - About technology and its pioneers.
+* [Essam Cafe](https://essamcafe.com/) - Weekly episodes with people, possibly we agree or disagree with them, it is important to learn and benefit from some and a small weekly episode on a random topic from the Twitter nominations.
+* [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) An Egyptian Arabic podcast discussess technology news.
+* [Khedr W Business](https://castbox.fm/channel/id2453686?country=us) - Topics are in two axes: 1- Management and entrepreneurship, and what is related to them in terms of investment, operation, marketing, partnership, etc. 2- Life, relationships, success, and methods drawn, and how we live it in a way that ensures reconciliation with oneself.
+* [State of E-commerce](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTA1ODk1LnJzcw?sa=X&ved=2ahUKEwixm-6X7ITsAhUR_hoKHTmpBaMQjs4CKAB6BAgBEBA) - An Arabic podcast for e-commerce, business and marketing to help business owners measure, understand and develop their online sales.
 
 ### Tooling
 
