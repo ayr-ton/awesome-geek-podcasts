@@ -316,6 +316,7 @@ A curated list of podcasts we like to listen to.
 * [HangOps.Ru](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA/feed) - Podcast + Live talk on YouTube about DevOps.
 * [Podlodka](http://podlodka.io) - Weekly audio show on software development. Interviews with professionals in software development industry and other related fields.
 * [UnderJS Podcast](https://underjs.ru/) - Podcast about JS, React Native, Nodejs.
+* [linkmeup](https://linkmeup.ru/) - Podcast about Networks, Telecom and other IT.
 
 ## In Persian
 
