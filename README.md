@@ -18,6 +18,7 @@ A curated list of podcasts we like to listen to.
   - [In English](#in-english)
   - [In Portuguese](#in-portuguese)
   - [In Spanish](#in-spanish)
+  - [In Georgian](#in-georgian)
   - [In Russian](#in-russian)
   - [In Persian](#in-persian)
   - [In Swedish](#in-swedish)
@@ -31,8 +32,10 @@ A curated list of podcasts we like to listen to.
   - [In Bahasa Indonesia](#in-bahasa-indonesia)
   - [In Dutch](#in-dutch)
   - [In Arabic](#in-arabic)
-    - [Tooling](#tooling)
-    - [More](#more)
+
+
+  - [Tooling](#tooling)
+  - [More](#more)
 
 ## Other information
 
@@ -302,6 +305,10 @@ A curated list of podcasts we like to listen to.
 * [Tomando Un Café](https://rooteando.com/tag/podcast) - Aplicaciones de Linux, programación y formación, aunque cualquier tema relacionado con la tecnología puede tener cabida.
 * [Ubuntu y otras hierbas](https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true) - Podcast en español sobre Ubuntu y software libre en general.
 * [uGeek](https://ugeek.github.io/) - Tecnología, Android, Linux, Servidores y mucho más...
+
+## In Georgian
+
+* [Debugger Podcast](https://debuggerpodcast.ge/) - Podcast about development culture, technologies and career growth.
 
 ## In Russian
 
