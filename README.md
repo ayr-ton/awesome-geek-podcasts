@@ -74,6 +74,7 @@ A curated list of podcasts we like to listen to.
 * [CodePen Radio](https://blog.codepen.io/radio/) - Co-founders of CodePen talk about the ins and outs of running a web software business.
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - A new podcast about the people who transform technology from the command line up.
 * [Complete Developer Podcast](https://completedeveloperpodcast.com/) - There are plenty of podcasts out there about languages and coding. What we are doing with the Complete Developer Podcast is to cover the other areas of life. For example, our first episode is about talking with customers, bosses, and others that developers interact with who are not fellow developers.
+* [Composers Play](https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf) - Listen to a video game composer discuss soundtracks of iconic games such as Mass Effect, Duke Nukem II, Doom, and System Shock with their composers, often while playing the game.
 * [Cortex](https://www.relay.fm/cortex) - Content creators CGP Grey and Myke Hurley discuss their processes, productivity hacks, workflows, and general working lives.
 * [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
