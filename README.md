@@ -46,6 +46,7 @@ A curated list of podcasts we like to listen to.
 
 * [.NET Rocks!](https://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
 * [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
+* [a16z Podcast](https://a16z.com/podcasts/) - A podcast discusses tech and culture trends, news, and the future.
 * [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
@@ -62,6 +63,7 @@ A curated list of podcasts we like to listen to.
 * [BookBytes](https://www.orbit.fm/bookbytes/) - A book club podcast for developers.
 * [Bootstrapped](http://bootstrapped.fm/) - Both Ian and Andrey are experienced startup founders, both have had major blows and successes in their career. You can learn a lot listening to them.
 * [Bootstrapped Web](http://bootstrappedweb.com/) - Bootstrapped Web is for entrepreneurs bootstrapping their startups, who believe that the best way to get to where we're going is to learn by doing.
+* [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
@@ -123,6 +125,7 @@ A curated list of podcasts we like to listen to.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
 * [JS Party](https://changelog.com/jsparty) – A community celebration of JavaScript and the web
 * [Ladybug Podcast](https://ladybug.dev/) – An all lady-hosted tech podcast for all developers with great discussions around how to start coding, the hot technologies right now, how to get your first developer job, imposter syndrome, how to write CSS and more.
+* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebook. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
 * [Linear Digressions](http://lineardigressions.com/) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
@@ -219,9 +222,6 @@ A curated list of podcasts we like to listen to.
 * [Weird Trick Mafia](https://weirdtrickmafia.fm/) - A podcast about tech, feelings, open source, and /dev/urandom.
 * [Why Are Computers](https://whyarecomputers.com/) - A podcast about computers and computer programs and why.
 * [WIRED's Webmonkey Podcast](https://www.wired.com/series/webmonkey/) - Glance behind the scenes of WIRED.com with the tech team.
-* [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
-* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebook. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
-* [a16z Podcast](https://a16z.com/podcasts/) - A podcast discusses tech and culture trends, news, and the future.
 
 
 ## In Portuguese
