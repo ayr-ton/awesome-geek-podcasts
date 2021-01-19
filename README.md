@@ -203,6 +203,7 @@ A curated list of podcasts we like to listen to.
 * [The Distributed Data Show](https://www.datastax.com/resources/distributed-data-show) - Weekly source for the latest news and technical expertise to help building large-scale distributed systems. Brought by the DataStax Technical Evangelist team, go in-depth with DataStax engineers and special guests from the broader data community. New episodes each Tuesday.
 * [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 * [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
+* [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity. 
 * [The Hanselminutes podcast](https://hanselminutes.com/) - Fresh Air for Developers.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 * [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
