@@ -11,7 +11,6 @@ A curated list of podcasts we like to listen to.
 
 ## Podcasts by language
 
-- [Awesome Geek Podcasts ![awesome](https://github.com/sindresorhus/awesome) [![](https://github.com/ayr-ton/awesome-geek-podcasts/workflows/Awesome%20Bot/badge.svg)](https://github.com/ayr-ton/awesome-geek-podcasts/actions)](#awesome-geek-podcasts-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome-img-srchttpsgithubcomayr-tonawesome-geek-podcastsworkflowsawesome20botbadgesvg-alt)
 - [Contents](#contents)
   - [Podcasts by language](#podcasts-by-language)
   - [Other information](#other-information)
