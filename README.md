@@ -183,6 +183,7 @@ A curated list of podcasts we like to listen to.
 * [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
 * [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
 * [Talk Python to Me](https://talkpython.fm/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
+* [Teaching Python](https://www.teachingpython.fm/) - Two middle school teachers learning and teaching Python.
 * [TechStuff](https://www.stuffmedia.com/techstuff-podcast.htm) - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
 * [Test and Code Podcast](https://testandcode.com/) - A podcast about Software Development, Software Testing, and Python.
 * [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - British podcast about Software Testing practices
