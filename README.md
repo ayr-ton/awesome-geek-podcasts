@@ -327,6 +327,7 @@ A curated list of podcasts we like to listen to.
 * [Podlodka](http://podlodka.io) - Weekly audio show on software development. Interviews with professionals in software development industry and other related fields.
 * [UnderJS Podcast](https://underjs.ru/) - Podcast about JS, React Native, Nodejs.
 * [linkmeup](https://linkmeup.ru/) - Podcast about Networks, Telecom and other IT.
+* [RadioDotNet](https://radio.dotnet.ru) - Podcast about everything .NET-related: news, articles, libraries, events.
 
 ## In Persian
 
