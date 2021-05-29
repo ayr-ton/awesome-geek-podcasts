@@ -55,7 +55,6 @@ A curated list of podcasts we like to listen to.
 * [Away from Keyboard](https://changelog.com/afk) – Exploring the human side of creative work.
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short manageable chunks.
 * [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
-* [Beats, Rye & Types](http://beatsryetypes.com/) - Two old friends, discuss their three main obsessions: music, food, and programming.
 * [Between Screens](https://soundcloud.com/between-screens) - Expect to find content about the following topics: Ruby, Rails, Sinatra, Sass, Javascript, Design Patterns, Jekyll, Client-Side Web Apps, Rust, Typography, Git, Responsive Design, Prototyping, Web Design, Type Design and more.
 * [Blockchain Insider](https://bi.11fs.com/) - Weekly podcast specialising in all things blockchain, ledger technology and crypto currencies.
 * [Boagworld Show](https://boagworld.com/show) - Boagworld is a podcast about digital strategy, management and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community.
@@ -218,7 +217,6 @@ A curated list of podcasts we like to listen to.
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 * [Three Devs and a Maybe](https://threedevsandamaybe.com/) - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
 * [Toolsday Podcast](https://spec.fm/podcasts/toolsday) - A 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2!
-* [TTL Podcast](http://ttlpodcast.com/) - The TTL Podcast, hosted by Rebecca Murphey, features conversations with front-end developers at large organizations about how they do their jobs.
 * [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities.
 * [Web of Tomorrow](https://www.orbit.fm/weboftomorrow/) - Podcast about JavaScript and front-end web development.
 * [Weird Trick Mafia](https://weirdtrickmafia.fm/) - A podcast about tech, feelings, open source, and /dev/urandom.
@@ -243,7 +241,6 @@ A curated list of podcasts we like to listen to.
 * [Elemencast](https://elemencast.github.io) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
 * [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw) - A Enciclopédia do Teatro Impossível é uma história paralela do teatro brasileiro, vista pelos seus fracassos. São relatos parte ficção parte realidade sobre produções teatrais impossíveis.
 * [FalaDev](https://anchor.fm/faladev) - Passando a maior parte do tempo escrevendo código, chegou o momento de se reunir e falar sobre o universo da programação.
-* [FooCast](https://foocast.io/) - Podcast sucinto que fala sobre desenvolvimento em geral.
 * [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - Quatro professores, extremamente nerds, divertidos e com muita história pra contar.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 * [Hipsters ponto Tech](https://hipsters.tech/) - Podcast da Caelum sobre startups, programação, UX, gadgets e as últimas tendências em tecnologia.
