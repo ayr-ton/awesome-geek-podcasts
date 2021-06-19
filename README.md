@@ -327,6 +327,7 @@ A curated list of podcasts we like to listen to.
 * [RadioDotNet](https://radio.dotnet.ru) - Podcast about everything .NET-related: news, articles, libraries, events.
 * [DotNet & More](https://more.dotnet.ru) - Podcast about .NET development and more. Hosted by [Aleksandr Kugushev](https://github.com/kugushev) and [Artem Akulyakov](https://github.com/oxffaa).
 * [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Podcast about software development (programming). Discussed topics are C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA and much more. Hosted by [Dmitri Nesteruk](https://github.com/nesteruk).
+* [Svoj Podcast](https://anchor.fm/svojpodcast) - Podcast about the latest news in programming, IT and technologies. Hosted by [Yurii Sydorets](https://github.com/YuraSidorets) and [Alex Poddiachyi](https://github.com/Poddiachyi)
 
 ## In Persian
 
