@@ -9,7 +9,7 @@ Your contributions are always welcome!
 ## Is my Content awesome or geek enough for this list?
 
 * Do you consider yourself geek?
-* Is GitHub a place I look for curated content?
+* Is GitHub a place do you look for curated content?
 * Do you like creating PRs and contributing do GitHub?
 
 If you answered yes for all previous questions, the ones would answer the same are probably the target audience of your content and will like to see it here. 
