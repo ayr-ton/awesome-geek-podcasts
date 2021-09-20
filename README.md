@@ -110,7 +110,6 @@ A curated list of podcasts we like to listen to.
 * [GitMinutes](http://www.gitminutes.com/) - The show for proficient Git users.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/) - The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.
 * [Go Time](https://changelog.com/gotime) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
-* [Hackable?](https://hackablepodcast.com) - In a world where we obsess over staying connected, how can we be sure we're not leaving ourselves vulnerable. The host **Geoff Siskind** does a live demonstration of some awesome hacking techniques in each episode.
 * [Hackaday Podcast](https://hackaday.com/category/podcasts/) - Hackaday's podcast, talking about the best articles published and hackaday contests.
 * [HardcoreHistory](https://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
@@ -152,7 +151,6 @@ A curated list of podcasts we like to listen to.
 * [Practical AI](https://changelog.com/practicalai) – Making artificial intelligence practical, productive, and accessible to everyone.
 * [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
-* [Reactive](http://reactive.audio/) - A podcast which merges, filters, scans and maps streams of thoughts about software engineering, culture, and technology.
 * [React Podcast](https://reactpodcast.com/) - Podcast about React.js
 * [Reasonably Sound](http://reasonablysound.com/) - Context, explanation and a little celebration of the complexities and awesomeness of audio, and the various cultures which surround and have grown around it.
 * [Reply All](https://www.gimletmedia.com/reply-all) - Reply All is a show about the internet.
@@ -188,7 +186,6 @@ A curated list of podcasts we like to listen to.
 * [Test and Code Podcast](https://testandcode.com/) - A podcast about Software Development, Software Testing, and Python.
 * [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - British podcast about Software Testing practices
 * [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
-* [The Accidental Engineer](https://theaccidentalengineer.com/) - Interviews with engineers about how they started their career
 * [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
 * [The Amp Hour](https://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
 * [The Back to Front Show](https://backtofrontshow.com/) - The Back to Front show was started in 2013 by web industry veterans Keir Whitaker and Kieran Masterton. Over the first 40 episodes they have discussed everything from web design and development to startups and dog related tech.
@@ -401,7 +398,6 @@ A curated list of podcasts we like to listen to.
 
 ## In Arabic
 * [Ask Developer](http://www.askdeveloper.com/) - An online audio podcast in Egyptian Arabic dialect discusses the technology and software development landscape in Egypt and Middle East.
-* [Null++](https://nullplus.plus) - An Egyptian Arabic podcast Powered By Cairo's Facebook Developers Circle Co-Leads. This podcast aims to provide valuable techie bites for MENA's Software Professionals and help them step up with their careers.
 * [Tech and Coffee](https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo) - About technology and its pioneers.
 * [Essam Cafe](https://essamcafe.com/) - Weekly episodes with people, possibly we agree or disagree with them, it is important to learn and benefit from some and a small weekly episode on a random topic from the Twitter nominations.
 * [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) An Egyptian Arabic podcast discussess technology news.
