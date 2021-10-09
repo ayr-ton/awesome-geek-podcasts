@@ -149,6 +149,7 @@ A curated list of podcasts we like to listen to.
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
 * [Podcast.\__init__](https://www.pythonpodcast.com/) - A podcast about Python and the people who make it great.
 * [Practical AI](https://changelog.com/practicalai) – Making artificial intelligence practical, productive, and accessible to everyone.
+* [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator.
 * [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
 * [React Podcast](https://reactpodcast.com/) - Podcast about React.js
