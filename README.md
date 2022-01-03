@@ -178,7 +178,6 @@ A curated list of podcasts we like to listen to.
 * [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 * [Sysadministrivia](https://sysadministrivia.com/) - Linux, Lagers, and Late Nights.
 * [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
-* [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
 * [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
 * [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
 * [Talk Python to Me](https://talkpython.fm/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
@@ -189,7 +188,6 @@ A curated list of podcasts we like to listen to.
 * [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
 * [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
 * [The Amp Hour](https://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
-* [The Back to Front Show](https://backtofrontshow.com/) - The Back to Front show was started in 2013 by web industry veterans Keir Whitaker and Kieran Masterton. Over the first 40 episodes they have discussed everything from web design and development to startups and dog related tech.
 * [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
 * [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
 * [The Bug Bounty Podcast](https://anchor.fm/bugbountypodcast) - A Podcast about bugs, bounties and its researchers. Hosted by Fisher.
@@ -197,7 +195,6 @@ A curated list of podcasts we like to listen to.
 * [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
 * [The CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) - The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also included interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world.
 * [The Cybrary Podcast](https://www.cybrary.it/info/cybrary-podcast/) -  It discusses about industry leaders and professionals from all aspects on the cybersecurity and IT fields give insight into how they got where they are today and what new and emerging technology we should be taking notice of.
-* [The Distributed Data Show](https://www.datastax.com/resources/distributed-data-show) - Weekly source for the latest news and technical expertise to help building large-scale distributed systems. Brought by the DataStax Technical Evangelist team, go in-depth with DataStax engineers and special guests from the broader data community. New episodes each Tuesday.
 * [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 * [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
 * [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity. 
@@ -293,7 +290,6 @@ A curated list of podcasts we like to listen to.
 * [GNU/Linux Valencia](https://gnulinuxvalencia.org/category/podcasts) - Una aproximación al mundo GNU/Linux desde la capital del Turia.
 * [Home Studio Libre: el Podcast](https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html) - Aquí encontraras informacion en español sobre producción y postproducción de audio y vídeo con herramientas libres.
 * [La Pingüina Increíblemente Curiosa](https://podcast.voidnull.es/) - Un podcast sobre LPIC, contenido de la certificación y explicaciones de los capitulos que hay que estudiar.
-* [Maratón Linuxero](https://maratonlinuxero.org) - proyecto creado por podcasters y oyentes de GNU/Linux que quieren realizar un evento en directo a través de aplicaciones y servicios de software libre.
 * [Más Allá de la Innovación](https://masalladelainnovacion.com) - Entrevistas tech de OpenExpo.
 * [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) - Reflexiones sobre tecnología, ordenadores, chromebooks, smartphones, tablets, software, sistemas operativos:Linux, Windows y otros y apps.
 * [NeoSiteLinux Podcast](https://www.neositelinux.com/tags/#podcasts) - Donde lo principal es el Software Libre, GNU/Linux y la Tecnologia.
@@ -385,8 +381,6 @@ A curated list of podcasts we like to listen to.
 * [Rebuild](http://rebuild.fm/) - A Podcast by Tatsuhiko Miyagawa. Talking about Tech, Software Development and Gadgets.
 
 ## In Bahasa Indonesia
-* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  -Cerita Developer inspiratif tentang bagaimana mereka memulai menjadi developer.
-* [Teh atau Kopi](https://tehataukopi.club/) - Belajar di luar sekolah
 * [Developer Muslim](https://devmuslim.id/) - Jurnal seorang developer muslim
 * [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
