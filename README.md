@@ -345,6 +345,7 @@ A curated list of podcasts we like to listen to.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 * [IFTTD – If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
 * [Electro Monkeys](https://electro-monkeys.fr/) - Weekly french podcast, Electro Monkeys is the most offbeat podcast on the planet on cloud native technologies! Hosted by Stéphane Beuret.
+* [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
 
 ## In German
 
