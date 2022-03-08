@@ -42,10 +42,11 @@ A curated list of podcasts we like to listen to.
 ## In English
 
 * [.NET Rocks!](https://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
-* [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests. (Ceased production 2020)
+* [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
 * [a16z Podcast](https://a16z.com/podcasts/) - A podcast discusses tech and culture trends, news, and the future.
 * [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://podcasts.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
+* [AdminAdmin Podcast](https://adminadminpodcast.co.uk) - A podcast about system administration and (increasingly) DevOps and Cloud operations.
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
 * [Around IT In 256 Seconds](https://256.nurkiewicz.com/) - Podcast for developers, testers, SREs… and their managers. I explain complex and convoluted technologies in a clear way, avoiding buzzwords and hype. Never longer than 4 minutes and 16 seconds.
 * [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) - Noah answers questions about technology, business, community and Linux
@@ -63,7 +64,7 @@ A curated list of podcasts we like to listen to.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
-* [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux. (Ceased production 2020)
+* [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux.
 * [Citizen Cosmos](https://www.citizencosmos.space/) - A podcast discovering the masterminds of the Cosmos blockchain ecosystem and web3 . 
 * [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
 * [CMOS](https://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
@@ -111,6 +112,7 @@ A curated list of podcasts we like to listen to.
 * [Hackaday Podcast](https://hackaday.com/category/podcasts/) - Hackaday's podcast, talking about the best articles published and hackaday contests.
 * [HardcoreHistory](https://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
+* [Hacker Public Radio](https://hackerpublicradio.org/) - Hacker Public Radio (HPR) is an Internet Radio show (podcast) that releases shows every weekday Monday through Friday. HPR is driven entirely by the content provided by it's community - on any subject, at any length, in any quality, as long as it's of "Interest to hackers" (basically anyone with any interest in technology). It is constantly actively looking for content and submissions.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
 * [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
 * [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
@@ -211,7 +213,7 @@ A curated list of podcasts we like to listen to.
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 * [Three Devs and a Maybe](https://threedevsandamaybe.com/) - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
 * [Toolsday Podcast](https://spec.fm/podcasts/toolsday) - A 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2!
-* [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities. (Ceased production 2021)
+* [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities.
 * [Web of Tomorrow](https://www.orbit.fm/weboftomorrow/) - Podcast about JavaScript and front-end web development.
 * [Weird Trick Mafia](https://weirdtrickmafia.fm/) - A podcast about tech, feelings, open source, and /dev/urandom.
 * [Watch Out for Fireballs!](https://www.watchoutforfireballs.com/) - A game club podcast, focused on retro and non-current games.
