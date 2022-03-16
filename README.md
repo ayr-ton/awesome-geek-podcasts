@@ -42,7 +42,7 @@ A curated list of podcasts we like to listen to.
 ## In English
 
 * [.NET Rocks!](https://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
-* [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests.
+* [/dev/hell](http://devhell.info/) - Chris Hartjes and Ed Finkler are trapped in Development Hell, where they talk mostly about PHP, web, their development experiences and also with special guests. (Ceased production 2020)
 * [a16z Podcast](https://a16z.com/podcasts/) - A podcast discusses tech and culture trends, news, and the future.
 * [Accidental Tech Podcast](http://atp.fm/) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://podcasts.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
@@ -64,7 +64,7 @@ A curated list of podcasts we like to listen to.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [Build Phase](http://buildphase.fm/) - Build Phase is a weekly technical podcast discussing iOS development and design.
-* [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux.
+* [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux. (Ceased production 2020)
 * [Citizen Cosmos](https://www.citizencosmos.space/) - A podcast discovering the masterminds of the Cosmos blockchain ecosystem and web3 . 
 * [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
 * [CMOS](https://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
@@ -213,7 +213,7 @@ A curated list of podcasts we like to listen to.
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
 * [Three Devs and a Maybe](https://threedevsandamaybe.com/) - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
 * [Toolsday Podcast](https://spec.fm/podcasts/toolsday) - A 20-ish-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2!
-* [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities.
+* [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities. (Ceased production 2021)
 * [Web of Tomorrow](https://www.orbit.fm/weboftomorrow/) - Podcast about JavaScript and front-end web development.
 * [Weird Trick Mafia](https://weirdtrickmafia.fm/) - A podcast about tech, feelings, open source, and /dev/urandom.
 * [Watch Out for Fireballs!](https://www.watchoutforfireballs.com/) - A game club podcast, focused on retro and non-current games.
