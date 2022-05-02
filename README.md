@@ -3,6 +3,7 @@ title: Awesome Geek Podcasts
 permalink: /
 ---
 
+<!--lint ignore no-dead-urls-->
 # Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://github.com/ayr-ton/awesome-geek-podcasts/workflows/Awesome%20Bot/badge.svg)](https://github.com/ayr-ton/awesome-geek-podcasts/actions)
 
 A curated list of podcasts we like to listen to.
@@ -247,7 +248,6 @@ A curated list of podcasts we like to listen to.
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - Entrevistas tratando de assuntos como liderança e empreendedorismo.
 * [Like a Boss](https://www.likeaboss.com.br) - O podcast Like a Boss é um podcast para empreendedores. Líderes e fundadores de startups e empresas de sucesso sentam com os dois hosts do programa.
 * [Mamilos](https://www.b9.com.br/shows/mamilos/) - Jornalismo de peito aberto
-* [MovileCast](https://movile.blog/tag/podcast/) - Podcast de tecnologia do ecossistema de empresas Movile.
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - O Podcast tem uma proposta de explicar diversos temas, usando ciência, filosofia, história entre outros para embasar as respostas.
 * [NautilusLink](https://soundcloud.com/nautiluslink) - Podcast sobre video-games.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
@@ -314,9 +314,7 @@ A curated list of podcasts we like to listen to.
 * [RWPod](https://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
 * [Radio-T](https://radio-t.com/) - Podcast of weekend. Improvisation on the theme of IT.
 * [RadioJS](http://radiojs.ru/) - Podcast about web-development, Javascript, Frontend and client-side.
-* [SDCast](http://sdcast.ksdaemon.ru) — Software development podcast. Interviews with developers, talks about development, open source and related IT topics.
 * [Razbor Poletov](http://razborpoletov.com) - Podcast about world of Java, technologies and software development.
-* [uWebDesign](https://uwebdesign.ru/) - Podcast about web-design, web-development and all IT-related stuff.
 * [GoLang Show](https://golangshow.com/) - Podcast about Go language.
 * [DevOps Deflope](https://devopsdeflope.ru/) - Podcast about DevOps.
 * [HangOps.Ru](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA/feed) - Podcast + Live talk on YouTube about DevOps.
@@ -346,7 +344,6 @@ A curated list of podcasts we like to listen to.
 * [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 * [IFTTD – If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
-* [Electro Monkeys](https://electro-monkeys.fr/) - Weekly french podcast, Electro Monkeys is the most offbeat podcast on the planet on cloud native technologies! Hosted by Stéphane Beuret.
 * [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
 
 ## In German
