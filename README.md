@@ -8,7 +8,6 @@ permalink: /
 
 A curated list of podcasts we like to listen to.
 
-
 # Contents
 
 ## Podcasts by language
@@ -286,7 +285,6 @@ A curated list of podcasts we like to listen to.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 * [Atareao Podcast](https://www.atareao.es/podcasts) - Podcast sobre Linux, Ubuntu, Android y Open Source.
 * [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - Mundo maker, software y hardware libre, proyectos, actividades y eventos organizados por la asociación Bricolabs.
-* [Compilando Podcast](https://compilando.audio) - Entrevistas y noticias sobre GNU/Linux y software libre.
 * [Davidochobits podcast](https://www.ochobitshacenunbyte.com/category/miscelaneos/) - Free Software, GNU y Linux.
 * [deployando.me](https://deployando.me/) - Podcast de tecnologia para sysadmins y devops.
 * [Eduardo Collado](https://www.eduardocollado.com/) - Administración de redes. No sólo de hosting y redes vive el hombre.
@@ -314,7 +312,6 @@ A curated list of podcasts we like to listen to.
 * [How to make games](https://kdicast.com/) - Podcast about video games and video games industry.
 * [RWPod](https://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
 * [Radio-T](https://radio-t.com/) - Podcast of weekend. Improvisation on the theme of IT.
-* [RadioJS](http://radiojs.ru/) - Podcast about web-development, Javascript, Frontend and client-side.
 * [Razbor Poletov](http://razborpoletov.com) - Podcast about world of Java, technologies and software development.
 * [GoLang Show](https://golangshow.com/) - Podcast about Go language.
 * [DevOps Deflope](https://devopsdeflope.ru/) - Podcast about DevOps.
@@ -340,7 +337,6 @@ A curated list of podcasts we like to listen to.
 
 * [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 * [La Dev Team](https://www.radiokawa.com/episode/la-dev-team-hs2/) - Monthly podcast hosted by developers and talking about the video game industry.
-* [Le comptoir sécu](https://www.comptoirsecu.fr/) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
 * [Les Cast Codeurs](https://lescastcodeurs.com) — Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
 * [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
@@ -374,7 +370,6 @@ A curated list of podcasts we like to listen to.
 
 ## In Finnish
 
-* [Frontend Friday](http://frontendfriday.fi/) – A podcast and meeting about HTML, the Web, and related topics. From Oulu, Finland.
 * [Webbidevaus.fi](https://webbidevaus.fi/) - Weekly podcast about web-development. Hosted by Antti Mattila and Riku Rouvila.
 
 ## In Japanese
