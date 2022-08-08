@@ -140,6 +140,7 @@ A curated list of podcasts we like to listen to.
 * [New Rustacean](https://newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
 * [Note To Self](https://www.wnycstudios.org/shows/notetoself) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) - The only show focused on Office 365 development where we talk to the experts from all over the globe coding on the Office 365 platform.
+* [Omega tau science & engineering podcast](https://omegataupodcast.net/) - A science and engineering podcast. Bilingual podcast, some episodes are in german.
 * [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) - Tales from the Hardware/Software Interface: “the nerdiest podcast on the face of the planet”.
 * [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) - A security podcast geared towards those looking to better understand security topics of the day.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
@@ -347,10 +348,12 @@ A curated list of podcasts we like to listen to.
 ## In German
 
 * [Apfelfunk](https://apfelfunk.com/) - Weekly podcast about everything that's related to Apple.
+* [Bits und so](http://www.bitsundso.de/) - Weekly talk radio aout Apple, Mac, Ipod+Iphone and other gadgets.
 * [Chaosradio](https://chaosradio.de) - Monthly live talk radio show of the Chaos Computer Club.
 * [Freak Show](https://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.
-* [Methodisch inkorrekt](http://minkorrekt.de/) - humoristic reviews of papers 4. Releasing pretty much all two weeks
+* [Methodisch inkorrekt](http://minkorrekt.de/) - humoristic reviews of scientific papers. Releasing roughly all two weeks.
+* [Omega tau science & engineering podcast](https://omegataupodcast.net/) - A science and engineering podcast. Bilingual podcast, some episodes are english.
 * [Radio Nukular](https://www.radionukular.de/) - Mainly (but not limited to) movies, video games and comics.
 * [Request for Comments](https://requestforcomments.de/) - Der RFC Podcast
 * [Working Draft](https://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
