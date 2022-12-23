@@ -253,6 +253,7 @@ A curated list of podcasts we like to listen to.
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - O Podcast tem uma proposta de explicar diversos temas, usando ciência, filosofia, história entre outros para embasar as respostas.
 * [NautilusLink](https://soundcloud.com/nautiluslink) - Podcast sobre video-games.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Podcast do portal JovemNerd que fala sobre nerdices, teorias e rpg's
+* [OsProgramadores](https://osprogramadores.com/podcast/) - Marcelo Pinheiro entrevista convidados que trabalham na área de programação. Na tentativa de criar um conteúdo que incentive e guie o pessoal que pretende começar nesta área.
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
 * [Pizza de Dados](https://pizzadedados.com/) - O Pizza de Dados é uma iniciativa que trás assuntos relacionados à ciência de dados de forma lúdica e descontraída.
 * [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
