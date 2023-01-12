@@ -140,7 +140,6 @@ A curated list of podcasts we like to listen to.
 * [New Rustacean](https://newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
 * [Note To Self](https://www.wnycstudios.org/shows/notetoself) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) - The only show focused on Office 365 development where we talk to the experts from all over the globe coding on the Office 365 platform.
-* [Omega tau science & engineering podcast](https://omegataupodcast.net/) - A science and engineering podcast. Bilingual podcast, some episodes are in german.
 * [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) - Tales from the Hardware/Software Interface: “the nerdiest podcast on the face of the planet”.
 * [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) - A security podcast geared towards those looking to better understand security topics of the day.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
@@ -259,7 +258,6 @@ A curated list of podcasts we like to listen to.
 * [Pizza de Dados](https://pizzadedados.com/) - O Pizza de Dados é uma iniciativa que trás assuntos relacionados à ciência de dados de forma lúdica e descontraída.
 * [PODebug](http://www.podebug.com/) - Desenvolvimento de software e tecnologia em geral, mas de forma bem humorada e descontraída.
 * [PodProgramar](https://podprogramar.com.br/) - Podcast sobre desenvolvimento técnologia comando pela Jessi Zanelato e Ana Eliza, abordam temas iniciantes e avançados.
-* [PodTag](https://podtag.com.br/) - Podcast comando pelo Luiz Gonçalves que abordam diversos temas sobre tecnologia desde de carreira a techs em si com vários convidades diferentes.
 * [Podtrash](http://www.td1p.com/) - Um podcast sobre filmes trash, feito por adoradores do trash.
 * [Quebradev](https://quebradev.com.br/) - Um podcast de origem periférica e com destino voltado à origem.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcast da galera do Cinema com rapadura, considerado hoje referência sobre cultura pop no Brasil.
