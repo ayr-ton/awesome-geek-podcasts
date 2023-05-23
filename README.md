@@ -378,6 +378,7 @@ A curated list of podcasts we like to listen to.
 * [Tech45](https://tech45.eu/) - Tech45 is een wekelijkse technologiepodcast. In ongeveer 45 minuten loodst een panel geeks je door het interessantste technieuws van de voorbije week.
 * [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/) - Wekelijkse podcast waarin nerds Spa Rood drinken en praten over tech-onderwerpen. Met regelmatig gastnerds en vaste tafelnerds Daniel Kegel, Floris Diemel, Joost Schellevis, Jurian Ubachs en Randal Peelen.
 * [ZeepCast](https://twitter.com/Zeepcast) - Een podcast over de laatste ontwikkelingen in wetenschap, technologie & popculture. Gehost door Sander Bijleveld & David van Dorsten.
+* [Nerdland Maandoverzicht](https://maandoverzicht.nerdland.be/) - Een maandelijkse podcast met een overzicht en bespreking van het wetenschaps- en technologienieuws van de afgelopen maand met als host Lieven Scheire.
 
 ## In Arabic
 * [Ask Developer](http://www.askdeveloper.com/) - An online audio podcast in Egyptian Arabic dialect discusses the technology and software development landscape in Egypt and Middle East.
