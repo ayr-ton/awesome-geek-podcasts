@@ -266,6 +266,14 @@ A curated list of podcasts we like to listen to.
 * [Dragões de Garagem](http://dragoesdegaragem.com/) - Um podcast de divulgação científica,  do desejo de falar sobre ciência de forma acessível e descontraída, incentivando a curiosidade e o pensamento crítico.
 * [Opencast](https://anchor.fm/opencast) - Tecnologia, Software Livre e inovação em um bate-papo descontraído e cheio de referências ao mundo unix-like..
 * [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura, para falar sobre diversos assuntos de tecnologia.
+* [Adrenaline](https://open.spotify.com/show/2Yj0uF6UjYLhJzclj2jXaE) - Podcast que aborda temas de tecnologia, games e cultura geek.
+* [Canaltech](https://open.spotify.com/show/4N529y6avmcwRFCxezff51) - Podcast do Canaltech, discutindo tecnologia e inovações.
+* [Matando Robôs Gigantes](https://matandorobosgigantes.com/) - Podcast que trata de cultura pop, tecnologia, quadrinhos, filmes e mais.
+* [Quero Ouvir (Coisa de Nerd – Leon e Nilce)](https://podcasts.apple.com/br/podcast/quero-ouvir/id1474392512) - Programa de comentários sobre filmes, tecnologia e entretenimento.
+* [Nerd Show Cast](https://open.spotify.com/show/454WlbRaPRlAC3qFZRXpPF) - Podcast que explora o universo nerd e tecnológico.
+* [Showmetech](https://open.spotify.com/show/57lV7FKAvxwAJ3HIZNCmI6) - Podcast abrangendo notícias de tecnologia e inovações.
+* [SciCast](https://open.spotify.com/show/0qfFcilKpNKkXy8TbZ4moP) - Podcast que explora a ciência e temas relacionados, incluindo tecnologia.
+* [Sinapse](https://open.spotify.com/show/59fUC0CFgoMfiLDXCuhjUM)- Podcast sobre neurociência e temas interdisciplinares.
 
 ## In Spanish
 
