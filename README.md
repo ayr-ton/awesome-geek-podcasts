@@ -164,6 +164,7 @@ A curated list of podcasts we like to listen to.
 * [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 * [Security Weekly](https://securityweekly.com) - A weekly podcast about security and info sec.
+* [Scrimba Podcast](https://podcast.scrimba.com) - Learn from inspiring developers about how they found meaningful and fulfilling work that that also pays them well.
 * [Semaphore Uncut](https://semaphoreci.com/podcast) - Software industry pros discuss problems they’re currently solving with the products they're working on.
 * [Self Hosted](https://selfhosted.show/) - Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you on the journey of their new ones. A Linux Academy podcast showcasing free and open source technologies you can host yourself.
 * [ShopTalk Show](https://shoptalkshow.com/) - Podcast about front end web design, development and UX.
