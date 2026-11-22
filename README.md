@@ -419,6 +419,7 @@ A curated list of podcasts we like to listen to.
 * [RadioPublic](https://radiopublic.com/)
 * [Podcast Addict](https://podcastaddict.com/app) - Android Podcast player
 * [The Podcast App](https://thepodcastapp.dev) - Free, ad-free podcast player for iOS and Android with AI cross-episode search
+* [PastNoise](https://pastnoise.com/) - Searchable spoken-line archive and primary-voice documentary synthesizer across 483,000+ podcast and lecture videos with bilingual transcripts and academic citations.
 
 ### More
 
